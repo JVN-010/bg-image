@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  color: rgb(0, 0, 0, 0.15);
+  background-color: rgb(189, 138, 240);
+  font-size: 200px;
+  text-align: center;
+  background-image: url(./Assets/Asian.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
